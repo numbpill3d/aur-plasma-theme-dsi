@@ -1,0 +1,14 @@
+pkgbase = plasma-theme-dsi
+	pkgdesc = Nintendo DSi-inspired KDE Plasma theme suite by deadgirl (numbpill3d)
+	pkgver = r7.gdbcba01
+	pkgrel = 1
+	url = https://github.com/numbpill3d/DSi-clearware-white-rice-Desktop-Theme-Plasma-KDE
+	arch = any
+	license = GPL-2.0-or-later
+	depends = plasma-workspace
+	depends = kwin
+	optdepends = kde-icon-theme: the Breeze icon theme the DSi icons build on
+	source = git+https://github.com/numbpill3d/DSi-clearware-white-rice-Desktop-Theme-Plasma-KDE.git
+	sha256sums = SKIP
+
+pkgname = plasma-theme-dsi

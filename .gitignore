@@ -1,0 +1,9 @@
+*.pkg.tar.*
+*.tar.gz
+src/
+pkg/
+.BUILDINFO
+.MTREE
+.PKGINFO
+.DS_Store
+DSi-clearware-white-rice-Desktop-Theme-Plasma-KDE/
